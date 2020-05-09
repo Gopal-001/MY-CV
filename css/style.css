@@ -1,0 +1,26 @@
+body{
+  background-color: #eaf6f6;
+}
+hr{
+  background-color: #FFFFFF;
+  width: 5%;
+  height: 0;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+}
+img {
+  width: 70%;
+  border-radius: 25px;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #7d5a5a;
+}
+/*.cloud{
+  width: 10%;
+  position: absolute;
+top: 10%; left: 80%;
+}*/
